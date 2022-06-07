@@ -1,0 +1,10 @@
+.vscode
+*.zip
+output
+datasets
+*.pdf
+*.png
+*.jpg
+*.txt
+*.p
+*.md
